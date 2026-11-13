@@ -1,0 +1,2405 @@
+{
+  "capa-de-chaise-longue-elastica-teide": {
+    "medidaPrincipal": "largura total do sofá (comprimento das costas, 230-290 cm), com profundidade da chaise longue de 150-200 cm",
+    "tamanhos": [
+      {
+        "tamanho": "Braço Curto Esquerdo",
+        "largura": {
+          "minCm": 230,
+          "maxCm": 290
+        },
+        "profundidade": {
+          "minCm": 150,
+          "maxCm": 200
+        },
+        "outras": "Altura 80-100 cm; largura da chaise 70-90 cm; braço curto 60-90 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Braço Curto Direito",
+        "largura": {
+          "minCm": 230,
+          "maxCm": 290
+        },
+        "profundidade": {
+          "minCm": 150,
+          "maxCm": 200
+        },
+        "outras": "Altura 80-100 cm; largura da chaise 70-90 cm; braço curto 60-90 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Braço Comprido Esquerdo",
+        "largura": {
+          "minCm": 230,
+          "maxCm": 290
+        },
+        "profundidade": {
+          "minCm": 150,
+          "maxCm": 200
+        },
+        "outras": "Altura 80-100 cm; largura da chaise 70-90 cm; braço comprido 110-160 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Braço Comprido Direito",
+        "largura": {
+          "minCm": 230,
+          "maxCm": 290
+        },
+        "profundidade": {
+          "minCm": 150,
+          "maxCm": 200
+        },
+        "outras": "Altura 80-100 cm; largura da chaise 70-90 cm; braço comprido 110-160 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "O lado da chaise longue (direito/esquerdo) é determinado olhando para o sofá de frente: a sua mão direita corresponde ao lado direito da chaise longue e vice-versa. Escolha o tipo de braço (curto ou comprido) correspondente ao braço do lado da chaise longue. Inclui espumas de poliuretano para melhor ajuste.",
+    "revisto": false
+  },
+  "capa-de-sofa-elastica-teide": {
+    "medidaPrincipal": "comprimento do sofá (medida A), de braço a braço",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": 70,
+          "maxCm": 110
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura das costas 80-95 cm; altura dos braços 50-60 cm; largura do braço 15-25 cm (indicações gerais do diagrama)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": 130,
+          "maxCm": 180
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura das costas 80-95 cm; altura dos braços 50-60 cm; largura do braço 15-25 cm (indicações gerais do diagrama)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": 180,
+          "maxCm": 220
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura das costas 80-95 cm; altura dos braços 50-60 cm; largura do braço 15-25 cm (indicações gerais do diagrama)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "4 Lugares",
+        "largura": {
+          "minCm": 220,
+          "maxCm": 250
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura das costas 80-95 cm; altura dos braços 50-60 cm; largura do braço 15-25 cm (indicações gerais do diagrama)",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "A medida 'A' corresponde ao comprimento do sofá; se a medida estiver próxima do máximo, escolha o tamanho seguinte. O tecido estica apenas numa direção (horizontal). Inclui esponjas para colocar entre as almofadas e elásticos para prender por baixo do sofá.",
+    "revisto": false
+  },
+  "capa-acolchoada-chaise-longue-com-relax": {
+    "medidaPrincipal": "Largura total do sofá chaise longue (o nome da variante indica apenas um valor em cm, sem tabela de medidas)",
+    "tamanhos": [
+      {
+        "tamanho": "Chaise Longue (200 cm)",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "O nome da variante indica 200 cm, sem especificar se é a largura exata, máxima ou de que parte do sofá; não há tabela de medidas",
+        "fonte": "nao_encontrado"
+      },
+      {
+        "tamanho": "Chaise Longue (240 cm)",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "O nome da variante indica 240 cm, sem especificar se é a largura exata, máxima ou de que parte do sofá; não há tabela de medidas",
+        "fonte": "nao_encontrado"
+      },
+      {
+        "tamanho": "Chaise Longue (280 cm)",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "O nome da variante indica 280 cm, sem especificar se é a largura exata, máxima ou de que parte do sofá; não há tabela de medidas",
+        "fonte": "nao_encontrado"
+      }
+    ],
+    "notas": "As imagens não contêm tabela de medidas (apenas ícones e fotos do produto). A capa é reversível e serve para chaise longue com braço esquerdo ou direito. É compatível com sofás com função relax, podendo usar um ou os dois relax ao mesmo tempo. Tem elásticos e alças traseiras.",
+    "revisto": false
+  },
+  "capa-acolchoada-chaise-longue-friheten": {
+    "medidaPrincipal": "Medidas aproximadas da capa para sofá chaise longue Friheten: largura total do encosto 215 cm",
+    "tamanhos": [
+      {
+        "tamanho": "único",
+        "largura": {
+          "minCm": 215,
+          "maxCm": 215
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Medidas aproximadas indicadas na imagem: encosto 215 cm; frente do assento (parte sem chaise) 145 cm; chaise longue 70 cm × 70 cm; parte da chaise junto ao braço 50 cm × 70 cm; braço 30 cm × 50 cm. Projetada especificamente para sofás Friheten.",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Valores fixos e aproximados da capa, não intervalos. É reversível e pode ser usada com a chaise longue do lado direito ou do lado esquerdo (vista de frente).",
+    "revisto": false
+  },
+  "capa-acolchoada-de-canto": {
+    "medidaPrincipal": "Comprimento do encosto de cada lado do sofá de canto, medido de braço até ao canto, em segmentos: assento lateral + módulo do canto.",
+    "tamanhos": [
+      {
+        "tamanho": "Pequena",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Imagem 'Capa Canto - Normal': encosto em segmentos de 140 + 60 + 60 + 140 cm, ou seja 140 cm + 60 cm de cada lado do canto. São medidas da capa e não intervalos do sofá.",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "XXL",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Imagem 'Capa Canto - XXL': encosto em segmentos de 160 + 60 + 60 + 160 cm, ou seja 160 cm + 60 cm de cada lado do canto. São medidas da capa e não intervalos do sofá.",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "A descrição fala em 2 tamanhos, 'Normal' e 'XXL'. A variante 'Pequena' foi associada à 'Capa Canto - Normal' da imagem. A imagem dá medidas fixas da capa por segmento e não intervalos mínimo/máximo do sofá. A profundidade não é indicada. A capa tem elásticos traseiros ajustáveis. Não é indicada nenhuma regra de escolha entre tamanhos.",
+    "revisto": false
+  },
+  "capa-bi-elastica-chaise-longue-milan": {
+    "medidaPrincipal": "largura total do sofá, de braço a braço (incluindo a chaise longue)",
+    "tamanhos": [
+      {
+        "tamanho": "Braço Curto Direito",
+        "largura": {
+          "minCm": 230,
+          "maxCm": 300
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura 80-110 cm; comprimento do braço curto (lado da chaise) 60-110 cm; comprimento do assento sem chaise 150-210 cm; largura da chaise 70-100 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Braço Curto Esquerdo",
+        "largura": {
+          "minCm": 230,
+          "maxCm": 300
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura 80-110 cm; comprimento do braço curto (lado da chaise) 60-110 cm; comprimento do assento sem chaise 150-210 cm; largura da chaise 70-100 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Braço Comprido Direito",
+        "largura": {
+          "minCm": 230,
+          "maxCm": 300
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura 80-110 cm; comprimento do braço longo / chaise 110-170 cm; comprimento do assento sem chaise 150-210 cm; largura da chaise 70-100 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Braço Comprido Esquerdo",
+        "largura": {
+          "minCm": 230,
+          "maxCm": 300
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura 80-110 cm; comprimento do braço longo / chaise 110-170 cm; comprimento do assento sem chaise 150-210 cm; largura da chaise 70-100 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Para escolher o lado (direito ou esquerdo), olhe para o sofá de frente e veja de que lado fica a chaise longue. Escolha entre braço longo (braço da chaise acompanha toda a chaise, 110-170 cm) ou braço curto (60-110 cm). Tecido bi-elástico com espumas de poliuretano incluídas.",
+    "revisto": false
+  },
+  "capa-bi-elastica-poltrona-tullsta-milan": {
+    "medidaPrincipal": "largura total da poltrona, medida de braço a braço",
+    "tamanhos": [
+      {
+        "tamanho": "único",
+        "largura": {
+          "minCm": 70,
+          "maxCm": 80
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura: 70 - 80 cm",
+        "fonte": "texto"
+      }
+    ],
+    "notas": "Capa bi-elástica para poltrona tipo Tullsta, com almofada separada. Largura medida de braço a braço. Medidas confirmadas na imagem (largura 70-80, altura 70-80). A profundidade não é indicada.",
+    "revisto": false
+  },
+  "capa-bi-elastica-sofa-duplex-milan": {
+    "medidaPrincipal": "largura total do sofá, de braço a braço (medida A)",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": 70,
+          "maxCm": 110
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura do encosto 80-110 cm; altura do assento 50-65 cm; largura do braço 15-30 cm",
+        "fonte": "texto"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": 130,
+          "maxCm": 180
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura do encosto 80-110 cm; altura do assento 50-65 cm; largura do braço 15-30 cm",
+        "fonte": "texto"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": 180,
+          "maxCm": 240
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura do encosto 80-110 cm; altura do assento 50-65 cm; largura do braço 15-30 cm. A imagem indica 180-230 cm para 3 lugares, mas o texto indica 180-240 cm.",
+        "fonte": "texto"
+      }
+    ],
+    "notas": "Capa bi-elástica em duas peças (base e almofadas). A largura A mede-se de braço a braço. Há uma discrepância no tamanho 3 Lugares: o texto indica 180-240 cm e a tabela da imagem indica 180-230 cm. A imagem também mostra um tamanho de 4 lugares (230-270 cm), que não está disponível como variante. As medidas de altura total (80-110 cm), altura do assento (50-65 cm) e largura do braço (15-30 cm) vêm da imagem e são comuns a todos os tamanhos.",
+    "revisto": false
+  },
+  "capa-de-canto-chaise-longue-bi-elastica-milan": {
+    "medidaPrincipal": "Medidas do sofá de canto: comprimento do lado maior (250-260 cm) e do lado da chaise (140-150 cm), medidos ao longo do encosto",
+    "tamanhos": [
+      {
+        "tamanho": "Chaise Longue (Esquerdo)",
+        "largura": {
+          "minCm": 250,
+          "maxCm": 260
+        },
+        "profundidade": {
+          "minCm": 95,
+          "maxCm": 100
+        },
+        "outras": "Lado da chaise (encosto): 140-150 cm; largura da chaise: 80-95 cm; medida na ponta da chaise: 40-50 cm; altura: 75-100 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue (Direito)",
+        "largura": {
+          "minCm": 250,
+          "maxCm": 260
+        },
+        "profundidade": {
+          "minCm": 95,
+          "maxCm": 100
+        },
+        "outras": "Lado da chaise (encosto): 140-150 cm; largura da chaise: 80-95 cm; medida na ponta da chaise: 40-50 cm; altura: 75-100 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "A mesma tabela de medidas aplica-se às duas orientações. A imagem mostra 'Braço Direito / right arm' com a chaise do lado direito e 'Braço Esquerdo / left arm' com a chaise do lado esquerdo, vendo o sofá de frente. Não é indicada a largura total nem regras de escolha entre tamanhos.",
+    "revisto": false
+  },
+  "capa-de-canto-com-chaise-longue-repelente-de-liquidos": {
+    "medidaPrincipal": "Comprimento de cada secção da capa ao longo do encosto (chaise longue, módulo de canto e parte do sofá), em cm",
+    "tamanhos": [
+      {
+        "tamanho": "Normal",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Medidas da capa na imagem: chaise longue 130 cm, canto 60 cm, sofá 160 cm (não são intervalos de sofá)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "XXL",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Medidas da capa na imagem: chaise longue 150 cm, canto 60 cm, sofá 200 cm (não são intervalos de sofá)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue (Esquerdo)",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Opção de orientação, não de tamanho; as medidas dependem do tamanho Normal ou XXL",
+        "fonte": "nao_encontrado"
+      },
+      {
+        "tamanho": "Chaise Longue (Direito)",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Opção de orientação, não de tamanho; as medidas dependem do tamanho Normal ou XXL",
+        "fonte": "nao_encontrado"
+      }
+    ],
+    "notas": "Escolha o lado conforme a posição da chaise longue vista de frente: Esquerda se a chaise está do lado esquerdo, Direita se está do lado direito. A imagem indica apenas as medidas fixas das secções da capa (Normal: 130/60/160 cm; XXL: 150/60/200 cm), sem intervalos mínimos/máximos nem medidas de profundidade.",
+    "revisto": false
+  },
+  "capa-de-chaise-longue-de-veludo": {
+    "medidaPrincipal": "comprimento do assento entre os braços do sofá",
+    "tamanhos": [
+      {
+        "tamanho": "Chaise Longue 200 cm (Esquerdo)",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": "Comprimento da chaise: 260 cm; largura da chaise: 70 cm; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 200 cm (Direito)",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": "Comprimento da chaise: 260 cm; largura da chaise: 70 cm; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 240 cm (Esquerdo)",
+        "largura": {
+          "minCm": 240,
+          "maxCm": 240
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 70
+        },
+        "outras": "Comprimento da chaise: 260 cm; largura da chaise: 80 cm; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 240 cm (Direito)",
+        "largura": {
+          "minCm": 240,
+          "maxCm": 240
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 70
+        },
+        "outras": "Comprimento da chaise: 260 cm; largura da chaise: 80 cm; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 280 cm (Esquerdo)",
+        "largura": {
+          "minCm": 280,
+          "maxCm": 280
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 70
+        },
+        "outras": "Comprimento da chaise: 260 cm; largura da chaise: 90 cm; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 280 cm (Direito)",
+        "largura": {
+          "minCm": 280,
+          "maxCm": 280
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 70
+        },
+        "outras": "Comprimento da chaise: 260 cm; largura da chaise: 90 cm; largura do braço: 50 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "As medidas são valores únicos (medidas da capa), não intervalos: comprimento do assento entre braços de 200, 240 ou 280 cm. O lado da chaise longue (esquerdo ou direito) é definido com o sofá visto de frente.",
+    "revisto": false
+  },
+  "capa-de-poltrona-bi-elastica-milan": {
+    "medidaPrincipal": "largura total da poltrona (encosto/costas), de lado a lado",
+    "tamanhos": [
+      {
+        "tamanho": "único",
+        "largura": {
+          "minCm": 70,
+          "maxCm": 100
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura total: 90-110 cm; altura do braço: 50-65 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Tamanho único para poltrona. Medidas da imagem: largura 70-100 cm, altura total 90-110 cm, altura do braço 50-65 cm. Profundidade não indicada. Inclui espumas para fixar entre as almofadas e dos lados.",
+    "revisto": false
+  },
+  "capa-de-poltrona-elastica-teide": {
+    "medidaPrincipal": "largura total da poltrona (encosto, de lado a lado)",
+    "tamanhos": [
+      {
+        "tamanho": "único",
+        "largura": {
+          "minCm": 70,
+          "maxCm": 90
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 80
+        },
+        "outras": "Altura: 90-100 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa de poltrona de orelhas (tamanho único). Medidas em cm. Tecido elástico que estica apenas na horizontal.",
+    "revisto": false
+  },
+  "capa-de-puff-bi-elastica-milan": {
+    "medidaPrincipal": "lado do puff (comprimento/largura da base) e altura do puff",
+    "tamanhos": [
+      {
+        "tamanho": "Normal",
+        "largura": {
+          "minCm": 40,
+          "maxCm": 65
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura: 40-65 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "XL",
+        "largura": {
+          "minCm": 70,
+          "maxCm": 90
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura: 40-65 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "As imagens indicam apenas uma medida de lado da base (Normal 40-65 cm, XL 70-90 cm) e a altura (40-65 cm em ambos). Tecido bi-elástico.",
+    "revisto": false
+  },
+  "capa-de-sofa-acolchoada-cor-pastel": {
+    "medidaPrincipal": "Largura do assento/encosto entre os braços do sofá (largura da capa no encosto), indicada como valor único em cada desenho",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": 55,
+          "maxCm": 55
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-55; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": 110,
+          "maxCm": 110
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-110; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares Plus",
+        "largura": {
+          "minCm": 130,
+          "maxCm": 130
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-130; dimensão total da capa 130 x 200 cm; largura do braço: 50 cm; altura lateral do braço: 70 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": 160,
+          "maxCm": 160
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-160; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares Plus",
+        "largura": {
+          "minCm": 180,
+          "maxCm": 180
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-180; dimensão total da capa 180 x 200 cm; largura do braço: 50 cm; altura lateral do braço: 70 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "4 Lugares",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-200; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "4 Lugares Plus",
+        "largura": {
+          "minCm": 220,
+          "maxCm": 220
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-220; dimensão total da capa 220 x 200 cm; largura do braço: 50 cm; altura lateral do braço: 70 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "As imagens indicam um valor único (não um intervalo) para a largura do encosto/assento de cada tamanho, por isso mínimo e máximo foram preenchidos com o mesmo valor. A cota de 50 cm corresponde à largura do braço, não à profundidade do assento; não é indicada profundidade do assento. Não são dadas regras de escolha entre tamanhos. Capa sem fechos, fixa por apoio (ajuste extra).",
+    "revisto": false
+  },
+  "capa-de-sofa-bi-elastica-click-clack-milan": {
+    "medidaPrincipal": "largura (A) do sofá click clack, medida ao longo do encosto de lado a lado",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": 50,
+          "maxCm": 80
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura do encosto até ao assento indicada no esquema: 110-140 cm (medida geral do desenho, não específica do tamanho)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": 130,
+          "maxCm": 160
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura do encosto até ao assento indicada no esquema: 110-140 cm (medida geral do desenho, não específica do tamanho)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": 160,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura do encosto até ao assento indicada no esquema: 110-140 cm (medida geral do desenho, não específica do tamanho)",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa bi-elástica para sofás Click Clack (sem braços). Medidas confirmadas no texto e na imagem. O esquema mostra também uma medida vertical de 110-140 cm (do encosto ao assento), sem indicação por tamanho. Não há regras de escolha adicionais indicadas.",
+    "revisto": false
+  },
+  "capa-de-sofa-bi-elastica-milan-dual": {
+    "medidaPrincipal": "largura total do sofá (A), medida de braço a braço",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": 70,
+          "maxCm": 110
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 110
+        },
+        "outras": "Altura do encosto 80-110 cm; altura do braço 45-65 cm; largura do braço 15-30 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": 130,
+          "maxCm": 180
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 110
+        },
+        "outras": "Altura do encosto 80-110 cm; altura do braço 45-65 cm; largura do braço 15-30 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": 180,
+          "maxCm": 230
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 110
+        },
+        "outras": "Altura do encosto 80-110 cm; altura do braço 45-65 cm; largura do braço 15-30 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "4 Lugares",
+        "largura": {
+          "minCm": 230,
+          "maxCm": 260
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 110
+        },
+        "outras": "Altura do encosto 80-110 cm; altura do braço 45-65 cm; largura do braço 15-30 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Se as medidas de comprimento forem próximas do máximo, escolha o tamanho a seguir. As medidas de profundidade, altura e braços são comuns a todos os tamanhos no diagrama. A etiqueta exterior vermelha deve ficar sempre no lado direito do sofá (visto de frente).",
+    "revisto": false
+  },
+  "capa-de-sofa-chaise-longue-acolchoada-cor-pastel": {
+    "medidaPrincipal": "Largura do encosto do sofá (parte sem chaise longue), indicada no nome de cada variante e nas imagens das medidas da capa",
+    "tamanhos": [
+      {
+        "tamanho": "Chaise Longue (200 cm)",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Apenas a largura de 200 cm vem no nome da variante; não há tabela ou imagem com as restantes medidas.",
+        "fonte": "titulo"
+      },
+      {
+        "tamanho": "Chaise Longue (240 cm)",
+        "largura": {
+          "minCm": 240,
+          "maxCm": 240
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 70
+        },
+        "outras": "Medidas da capa segundo a imagem: comprimento na diagonal/chaise 260 cm, largura da chaise 80 cm, braço 50 cm.",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue (280 cm)",
+        "largura": {
+          "minCm": 280,
+          "maxCm": 280
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 70
+        },
+        "outras": "Medidas da capa segundo a imagem: comprimento na diagonal/chaise 260 cm, largura da chaise 90 cm, braço 50 cm.",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Os valores são medidas da própria capa, não intervalos de tamanho do sofá. Para escolher o lado da chaise longue, fique de frente para o sofá e escolha esquerda ou direita conforme a posição da chaise. A descrição também diz que a capa tem a mesma cor dos dois lados e serve tanto para o braço esquerdo como para o direito. O texto e as imagens não indicam regras sobre intervalos de tamanho.",
+    "revisto": false
+  },
+  "capa-de-sofa-chaise-longue-impermeavel": {
+    "medidaPrincipal": "Comprimento da zona de assento/encosto do sofá indicado no diagrama (200, 240 ou 280 cm), medida da própria capa; valores únicos, não intervalos",
+    "tamanhos": [
+      {
+        "tamanho": "Chaise Longue 200 cm (Direito)",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": "Comprimento da chaise: 260 cm; largura da chaise: 70 cm; braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 200 cm (Esquerdo)",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": "Comprimento da chaise: 260 cm; largura da chaise: 70 cm; braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 240 cm (Direito)",
+        "largura": {
+          "minCm": 240,
+          "maxCm": 240
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 70
+        },
+        "outras": "Comprimento da chaise: 260 cm; largura da chaise: 80 cm; braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 240 cm (Esquerdo)",
+        "largura": {
+          "minCm": 240,
+          "maxCm": 240
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 70
+        },
+        "outras": "Comprimento da chaise: 260 cm; largura da chaise: 80 cm; braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 280 cm (Direito)",
+        "largura": {
+          "minCm": 280,
+          "maxCm": 280
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 70
+        },
+        "outras": "Comprimento da chaise: 260 cm; largura da chaise: 90 cm; braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 280 cm (Esquerdo)",
+        "largura": {
+          "minCm": 280,
+          "maxCm": 280
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 70
+        },
+        "outras": "Comprimento da chaise: 260 cm; largura da chaise: 90 cm; braço: 50 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Os diagramas indicam medidas únicas da capa (não intervalos). O lado (Direito/Esquerdo) refere-se ao lado onde fica a chaise longue, visto de frente para o sofá, conforme a imagem 'Braço esquerdo' / 'Braço direito'. Não são indicadas regras de escolha entre tamanhos.",
+    "revisto": false
+  },
+  "capa-de-sofa-relax-bi-elastica-milan": {
+    "medidaPrincipal": "largura do encosto da poltrona relax (60-85 cm)",
+    "tamanhos": [
+      {
+        "tamanho": "único",
+        "largura": {
+          "minCm": 60,
+          "maxCm": 85
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 80
+        },
+        "outras": "Altura total: 80-100 cm; altura do assento/apoio de pés: 50-65 cm; comprimento do encosto ao apoio de pés estendido: 160/180 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para poltrona relax de 1 lugar, tamanho único. Medidas do esquema: largura do encosto 60-85 cm, profundidade 60-80 cm, altura 80-100 cm, altura lateral 50-65 cm, comprimento estendido 160/180 cm.",
+    "revisto": false
+  },
+  "capa-de-sofa-relax-bi-elastica-milan-2-lugares": {
+    "medidaPrincipal": "largura total do sofá, de braço a braço (160-190 cm)",
+    "tamanhos": [
+      {
+        "tamanho": "único",
+        "largura": {
+          "minCm": 160,
+          "maxCm": 190
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 80
+        },
+        "outras": "Altura: 90-110 cm; profundidade com o assento relax estendido: 70-80 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para sofá relax de 2 lugares. Medidas retiradas do esquema da imagem: largura 160-190 cm, altura 90-110 cm, profundidade 70-80 cm. Inclui espumas para colocar entre as almofadas e os lados.",
+    "revisto": false
+  },
+  "capa-de-sofa-relax-elastica-teide": {
+    "medidaPrincipal": "largura do encosto do sofá relax (60-85 cm), com altura e profundidade indicadas no diagrama",
+    "tamanhos": [
+      {
+        "tamanho": "único",
+        "largura": {
+          "minCm": 60,
+          "maxCm": 85
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 80
+        },
+        "outras": "Altura total: 80-100 cm; altura do assento/apoio de pernas: 50-65 cm; comprimento em posição reclinada (encosto ao apoio de pés): 160/180 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para sofá relax de 1 lugar, composta por 1 peça. Medidas retiradas do diagrama: largura 60-85 cm, profundidade 60-80 cm, altura 80-100 cm, altura 50-65 cm, comprimento reclinado 160/180 cm.",
+    "revisto": false
+  },
+  "capa-de-sofa-relax-elastica-teide-pe-separado": {
+    "medidaPrincipal": "largura do encosto do sofá relax (60-85 cm), segundo o desenho de medidas",
+    "tamanhos": [
+      {
+        "tamanho": "único",
+        "largura": {
+          "minCm": 60,
+          "maxCm": 85
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 80
+        },
+        "outras": "Altura: 80-100 cm; altura do assento ao chão (apoio de pés): 50-65 cm; comprimento diagonal do encosto até ao apoio de pés estendido: 160/180 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para sofá relax de pé separado, composta por 4 peças (corpo principal, dois braços e apoio para os pés). Medidas retiradas do desenho técnico.",
+    "revisto": false
+  },
+  "capa-de-sofa-reversivel": {
+    "medidaPrincipal": "Largura do assento/encosto do sofá entre os braços (medida da seta sobre o encosto)",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": null,
+          "maxCm": 55
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Braço: 50 cm de largura",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": null,
+          "maxCm": 110
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Braço: 50 cm de largura",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": null,
+          "maxCm": 160
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Braço: 50 cm de largura",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "4 Lugares",
+        "largura": {
+          "minCm": null,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Braço: 50 cm de largura",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares Plus",
+        "largura": {
+          "minCm": null,
+          "maxCm": 130
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Dimensões da capa: 130 x 200 cm; braço: 50 cm de largura e 70 cm de altura",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares Plus",
+        "largura": {
+          "minCm": null,
+          "maxCm": 180
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Dimensões da capa: 180 x 200 cm; braço: 50 cm de largura e 70 cm de altura",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "4 Lugares Plus",
+        "largura": {
+          "minCm": null,
+          "maxCm": 220
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Dimensões da capa: 220 x 200 cm; braço: 50 cm de largura e 70 cm de altura",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "5 Lugares",
+        "largura": {
+          "minCm": null,
+          "maxCm": 240
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Dimensões da capa: 240 x 200 cm; braço: 50 cm de largura e 70 cm de altura",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "As imagens indicam um único valor por tamanho (largura do assento entre os braços, códigos R-55, R-110, R-130, R-160, R-180, R-200, R-220, R-240), não um intervalo; foi registado como largura máxima. O valor 50 refere-se à largura do braço e 70 à altura do braço; a profundidade do assento não é indicada. Não há regras de escolha adicionais.",
+    "revisto": false
+  },
+  "capa-de-sofa-reversivel-chaise-longue": {
+    "medidaPrincipal": "Largura do assento/encosto (zona coberta entre os braços) indicada na imagem, que corresponde ao nome da variante (200, 240 ou 280 cm)",
+    "tamanhos": [
+      {
+        "tamanho": "Chaise Longue (200 cm)",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": "Medidas da capa, valores únicos e não intervalos: comprimento da chaise 260 cm, largura da chaise 70 cm, largura do braço 50 cm, profundidade do assento 65 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue (240 cm)",
+        "largura": {
+          "minCm": 240,
+          "maxCm": 240
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 70
+        },
+        "outras": "Medidas da capa, valores únicos e não intervalos: comprimento da chaise 260 cm, largura da chaise 80 cm, largura do braço 50 cm, profundidade do assento 70 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue (280 cm)",
+        "largura": {
+          "minCm": 280,
+          "maxCm": 280
+        },
+        "profundidade": {
+          "minCm": 70,
+          "maxCm": 70
+        },
+        "outras": "Medidas da capa, valores únicos e não intervalos: comprimento da chaise 260 cm, largura da chaise 90 cm, largura do braço 50 cm, profundidade do assento 70 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "As imagens mostram as medidas da própria capa (valores únicos) e não intervalos de medidas do sofá. A capa é reversível e de cor única dos dois lados, por isso serve para chaise longue à esquerda ou à direita. Inclui elástico traseiro para prender aos pés do sofá. Não é indicada nenhuma regra de escolha entre tamanhos.",
+    "revisto": false
+  },
+  "capa-impermeavel-relax-reclinavel-2-3-lugares": {
+    "medidaPrincipal": "Número de lugares do sofá relax reclinável (2 ou 3); o esquema indica a largura de cada assento (80 cm), não a largura total do sofá",
+    "tamanhos": [
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Largura de cada assento: 80 cm (2 assentos); comprimento total com encosto reclinado e apoio de pés estendido: 220 cm; profundidade do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Largura de cada assento: 80 cm (3 assentos); comprimento total com encosto reclinado e apoio de pés estendido: 220 cm; profundidade do braço: 50 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para sofás com encostos reclináveis e assentos acolchoados. O esquema dá valores únicos e não intervalos. A largura total do sofá não é indicada. As medidas são aproximadas e podem existir pequenas variações.",
+    "revisto": false
+  },
+  "capa-para-almofadas-de-sofa-bi-elastica-milan": {
+    "medidaPrincipal": "comprimento (lado mais longo) da almofada do sofá",
+    "tamanhos": [
+      {
+        "tamanho": "S",
+        "largura": {
+          "minCm": 45,
+          "maxCm": 65
+        },
+        "profundidade": {
+          "minCm": 50,
+          "maxCm": 85
+        },
+        "outras": "Altura/espessura da almofada: 10-20 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "M",
+        "largura": {
+          "minCm": 65,
+          "maxCm": 95
+        },
+        "profundidade": {
+          "minCm": 50,
+          "maxCm": 85
+        },
+        "outras": "Altura/espessura da almofada: 10-20 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "L",
+        "largura": {
+          "minCm": 95,
+          "maxCm": 130
+        },
+        "profundidade": {
+          "minCm": 50,
+          "maxCm": 85
+        },
+        "outras": "Altura/espessura da almofada: 10-20 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "XL",
+        "largura": {
+          "minCm": 130,
+          "maxCm": 185
+        },
+        "profundidade": {
+          "minCm": 50,
+          "maxCm": 85
+        },
+        "outras": "Altura/espessura da almofada: 10-20 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para almofadas individuais (assento ou encosto), não para o sofá inteiro. Medidas aproximadas. A profundidade (50-85 cm) e a altura (10-20 cm) são comuns a todos os tamanhos. Adapta-se a diferentes formas de almofadas.",
+    "revisto": false
+  },
+  "capa-para-almofadas-de-sofa-multi-elastica": {
+    "medidaPrincipal": "Largura da almofada do sofá (lado comprido marcado S-M-L-XL no esquema)",
+    "tamanhos": [
+      {
+        "tamanho": "S - (45-65 cm)",
+        "largura": {
+          "minCm": 45,
+          "maxCm": 65
+        },
+        "profundidade": {
+          "minCm": 50,
+          "maxCm": 85
+        },
+        "outras": "Altura/espessura da almofada 10-20 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "M - (65-95 cm)",
+        "largura": {
+          "minCm": 65,
+          "maxCm": 95
+        },
+        "profundidade": {
+          "minCm": 50,
+          "maxCm": 85
+        },
+        "outras": "Altura/espessura da almofada 10-20 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "L - (95-130 cm)",
+        "largura": {
+          "minCm": 95,
+          "maxCm": 130
+        },
+        "profundidade": {
+          "minCm": 50,
+          "maxCm": 85
+        },
+        "outras": "Altura/espessura da almofada 10-20 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "XL - (130-185 cm)",
+        "largura": {
+          "minCm": 130,
+          "maxCm": 185
+        },
+        "profundidade": {
+          "minCm": 50,
+          "maxCm": 85
+        },
+        "outras": "Altura/espessura da almofada 10-20 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para uma almofada individual (assento ou encosto), não para o sofá inteiro. Medidas aproximadas, segundo a imagem. A profundidade de 50-85 cm e a altura de 10-20 cm são comuns a todos os tamanhos. Adapta-se a diferentes formas de almofadas. Não é indicada nenhuma regra para medidas próximas do limite entre tamanhos.",
+    "revisto": false
+  },
+  "capa-para-assento-sofa-impermeavel": {
+    "medidaPrincipal": "comprimento (largura) da capa do assento, em cm; profundidade de 65 cm",
+    "tamanhos": [
+      {
+        "tamanho": "55 cm",
+        "largura": {
+          "minCm": 55,
+          "maxCm": 55
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": null,
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "110 cm",
+        "largura": {
+          "minCm": 110,
+          "maxCm": 110
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": null,
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "130 cm",
+        "largura": {
+          "minCm": 130,
+          "maxCm": 130
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": null,
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "160 cm",
+        "largura": {
+          "minCm": 160,
+          "maxCm": 160
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": null,
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "180 cm",
+        "largura": {
+          "minCm": 180,
+          "maxCm": 180
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": null,
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "200 cm",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": null,
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "220 cm",
+        "largura": {
+          "minCm": 220,
+          "maxCm": 220
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": null,
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Medidas da própria capa (topper de assento), não intervalos de sofá. Medidas aproximadas, segundo a imagem.",
+    "revisto": false
+  },
+  "capa-para-chaise-longue-multi-elastica-mini-180-210-cm": {
+    "medidaPrincipal": "largura total do sofá (incluindo a chaise longue), de braço a braço, visto de frente",
+    "tamanhos": [
+      {
+        "tamanho": "Braço Curto Esquerdo",
+        "largura": {
+          "minCm": 180,
+          "maxCm": 210
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura 80-100 cm; largura da chaise longue 55-70 cm; braço curto 80-95 cm (medidas aproximadas)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Braço Curto Direito",
+        "largura": {
+          "minCm": 180,
+          "maxCm": 210
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura 80-100 cm; largura da chaise longue 55-70 cm; braço curto 80-95 cm (medidas aproximadas)",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Medidas aproximadas. Para escolher o modelo, fique de frente para o sofá e escolha esquerda ou direita conforme o lado da chaise longue (visto de frente). Tamanho Mini (180-210 cm). A imagem não indica claramente a profundidade total do sofá.",
+    "revisto": false
+  },
+  "capa-para-chaise-longue-relax-multi-elastica": {
+    "medidaPrincipal": "largura total do sofá (230-300 cm), visto de frente; escolher o lado conforme a posição da chaise longue",
+    "tamanhos": [
+      {
+        "tamanho": "Braço Curto Direito",
+        "largura": {
+          "minCm": 230,
+          "maxCm": 300
+        },
+        "profundidade": {
+          "minCm": 80,
+          "maxCm": 110
+        },
+        "outras": "Altura 90-120 cm; largura da chaise longue 70-110 cm; profundidade do assento relax 60-90 cm; profundidade da chaise 80-110 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Braço Curto Esquerdo",
+        "largura": {
+          "minCm": 230,
+          "maxCm": 300
+        },
+        "profundidade": {
+          "minCm": 80,
+          "maxCm": 110
+        },
+        "outras": "Altura 90-120 cm; largura da chaise longue 70-110 cm; profundidade do assento relax 60-90 cm; profundidade da chaise 80-110 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Medidas aproximadas. Para escolher o modelo, fique de frente para o sofá e escolha esquerda ou direita conforme o lado da chaise longue (Chaise Longue Direita = chaise à direita visto de frente; Esquerda = chaise à esquerda). A mesma tabela de medidas aplica-se a ambos os lados. Inclui esponjas para ajuste.",
+    "revisto": false
+  },
+  "capa-para-sofa-bi-elastica-veludo-repelente-de-liquidos": {
+    "medidaPrincipal": "largura total do sofá, de braço a braço (A)",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": 70,
+          "maxCm": 110
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 100
+        },
+        "outras": "Altura do encosto 80-110 cm; altura do braço 40-65 cm; largura do braço 15-30 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": 130,
+          "maxCm": 180
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 100
+        },
+        "outras": "Altura do encosto 80-110 cm; altura do braço 40-65 cm; largura do braço 15-30 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": 180,
+          "maxCm": 230
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 100
+        },
+        "outras": "Altura do encosto 80-110 cm; altura do braço 40-65 cm; largura do braço 15-30 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "4 Lugares",
+        "largura": {
+          "minCm": 230,
+          "maxCm": 260
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 100
+        },
+        "outras": "Altura do encosto 80-110 cm; altura do braço 40-65 cm; largura do braço 15-30 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Medidas aproximadas. A profundidade (60-100 cm), altura (80-110 cm), altura do braço (40-65 cm) e largura do braço (15-30 cm) são comuns a todos os tamanhos segundo o diagrama. As larguras de 2 e 3 Lugares sobrepõem-se em 180 cm, tal como as de 3 e 4 Lugares em 230 cm.",
+    "revisto": false
+  },
+  "capa-para-sofa-chaise-longue-em-coralina": {
+    "medidaPrincipal": "Largura total do sofá chaise longue (200, 240 ou 280 cm, conforme indicado no esquema técnico)",
+    "tamanhos": [
+      {
+        "tamanho": "Chaise Longue 200 cm (Esquerdo)",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": 260,
+          "maxCm": 260
+        },
+        "outras": "Medidas da capa, valores únicos e não intervalos. Comprimento da chaise: 260. Frente do assento: 170. Altura/encosto: 65. Braço: 50. Largura da frente da chaise: 70.",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 200 cm (Direito)",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": 260,
+          "maxCm": 260
+        },
+        "outras": "Medidas da capa, valores únicos e não intervalos. Comprimento da chaise: 260. Frente do assento: 170. Altura/encosto: 65. Braço: 50. Largura da frente da chaise: 70.",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 240 cm (Esquerdo)",
+        "largura": {
+          "minCm": 240,
+          "maxCm": 240
+        },
+        "profundidade": {
+          "minCm": 260,
+          "maxCm": 260
+        },
+        "outras": "Medidas da capa, valores únicos e não intervalos. Comprimento da chaise: 260. Frente do assento: 180. Altura/encosto: 70. Braço: 50. Largura da frente da chaise: 50.",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 240 cm (Direito)",
+        "largura": {
+          "minCm": 240,
+          "maxCm": 240
+        },
+        "profundidade": {
+          "minCm": 260,
+          "maxCm": 260
+        },
+        "outras": "Medidas da capa, valores únicos e não intervalos. Comprimento da chaise: 260. Frente do assento: 180. Altura/encosto: 70. Braço: 50. Largura da frente da chaise: 50.",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 280 cm (Esquerdo)",
+        "largura": {
+          "minCm": 280,
+          "maxCm": 280
+        },
+        "profundidade": {
+          "minCm": 260,
+          "maxCm": 260
+        },
+        "outras": "Medidas da capa, valores únicos e não intervalos. Comprimento da chaise: 260. Frente do assento: 190. Altura/encosto: 70. Braço: 50. Largura da frente da chaise: 50 (lado esquerdo) / 90 (lado direito).",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue 280 cm (Direito)",
+        "largura": {
+          "minCm": 280,
+          "maxCm": 280
+        },
+        "profundidade": {
+          "minCm": 260,
+          "maxCm": 260
+        },
+        "outras": "Medidas da capa, valores únicos e não intervalos. Comprimento da chaise: 260. Frente do assento: 190. Altura/encosto: 70. Braço: 50. Largura da frente da chaise: 90.",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "O esquema técnico (em cm) mostra as medidas-chave da capa com valores únicos, sem intervalos de sofá. O lado da chaise (direito ou esquerdo) é definido com o sofá visto de frente. Não é indicada nenhuma regra de escolha entre tamanhos. No tamanho 280, a largura da frente da chaise difere entre os lados no esquema: 90 cm no direito e 50 cm no esquerdo.",
+    "revisto": false
+  },
+  "capa-para-sofa-chester-bi-elastica-milan": {
+    "medidaPrincipal": "largura do sofá (A), medida de um lado ao outro do encosto, conforme o diagrama",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": 70,
+          "maxCm": 120
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura: 70-100 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": 140,
+          "maxCm": 180
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura: 70-100 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": 180,
+          "maxCm": 220
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura: 70-100 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para sofá Chesterfield. A altura de 70-100 cm indicada no diagrama aplica-se a todos os tamanhos. Inclui capa para o sofá e capa para a almofada de assento. Não é indicada nenhuma regra para medidas próximas dos limites.",
+    "revisto": false
+  },
+  "capa-para-sofa-de-veludo": {
+    "medidaPrincipal": "largura do assento/encosto coberto pela capa (entre os braços), com a largura do braço indicada à parte",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": null,
+          "maxCm": 55
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-55; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": null,
+          "maxCm": 110
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-110; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": null,
+          "maxCm": 160
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-160; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "4 Lugares",
+        "largura": {
+          "minCm": null,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-200; largura do braço: 50 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "As imagens indicam apenas uma medida única de largura do assento/encosto por tamanho (55, 110, 160 e 200 cm) e 50 cm no braço; não são dados intervalos mínimos nem regras de escolha. Capa tipo protetor em veludo com base antiderrapante.",
+    "revisto": false
+  },
+  "capa-para-sofa-dupla-face-impermeavel": {
+    "medidaPrincipal": "largura da zona do assento/encosto coberta pela capa (entre os braços)",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": 55,
+          "maxCm": 55
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-55; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": 110,
+          "maxCm": 110
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-110; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": 160,
+          "maxCm": 160
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-160; largura do braço: 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "4 Lugares",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Referência R-200; largura do braço: 50 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "A imagem indica um único valor por tamanho (largura do assento: 55, 110, 160 e 200 cm) e 50 cm para os braços, não intervalos. Capa reversível (dupla face), sem fechos, com base antiderrapante. Não há regras de escolha indicadas nem medidas de profundidade.",
+    "revisto": false
+  },
+  "capa-para-sofa-em-coralina": {
+    "medidaPrincipal": "Largura da zona de assento/encosto a cobrir (entre os braços), indicada na imagem como medida da capa",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": 55,
+          "maxCm": 55
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Dimensões da capa: 55 x 200 cm; altura do braço/frente coberta 70 cm; largura do braço 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": 110,
+          "maxCm": 110
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Dimensões da capa: 110 x 200 cm; altura do braço/frente coberta 70 cm; largura do braço 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": 160,
+          "maxCm": 160
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Dimensões da capa: 160 x 200 cm; altura do braço/frente coberta 70 cm; largura do braço 50 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "4 Lugares",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Dimensões da capa: 200 x 200 cm; altura do braço/frente coberta 70 cm; largura do braço 50 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "A imagem indica as dimensões da própria capa (largura x comprimento de 200 cm), não intervalos de medidas do sofá. Os valores de largura correspondem à largura da área do assento/encosto coberta. Não são indicadas regras de escolha nem intervalos de profundidade do sofá. A descrição refere que se adapta a 95% dos sofás padrão.",
+    "revisto": false
+  },
+  "capa-para-sofa-klippan-e-bracos-altos-bi-elastica-milan": {
+    "medidaPrincipal": "largura total do sofá, de braço a braço (A)",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": 70,
+          "maxCm": 80
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura do braço: 60-70 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": 170,
+          "maxCm": 185
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura do braço: 60-70 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": 185,
+          "maxCm": 220
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura do braço: 60-70 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para sofá de braços altos, compatível com sofá Klippan do Ikea. A altura dos braços indicada na imagem (60-70 cm) aplica-se a todos os tamanhos.",
+    "revisto": false
+  },
+  "capa-para-sofa-multi-elastica-chaise-longue-friheten-sem-braco": {
+    "medidaPrincipal": "largura total do sofá (encosto) 195-220 cm, com profundidade da chaise longue 145-155 cm",
+    "tamanhos": [
+      {
+        "tamanho": "Chaise Longue (Esquerdo)",
+        "largura": {
+          "minCm": 195,
+          "maxCm": 220
+        },
+        "profundidade": {
+          "minCm": 145,
+          "maxCm": 155
+        },
+        "outras": "Altura 80-95 cm; largura da parte sem chaise 130-140 cm; largura da chaise longue 65-80 cm; braço/lateral 10-15 cm. Medidas aproximadas.",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "Chaise Longue (Direito)",
+        "largura": {
+          "minCm": 195,
+          "maxCm": 220
+        },
+        "profundidade": {
+          "minCm": 145,
+          "maxCm": 155
+        },
+        "outras": "Altura 80-95 cm; largura da parte sem chaise 130-140 cm; largura da chaise longue 65-80 cm; braço/lateral 10-15 cm. Medidas aproximadas.",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Para escolher o lado, fique de frente para o sofá e veja se a chaise longue está à esquerda ou à direita (visto de frente). As medidas são aproximadas e iguais para ambos os lados.",
+    "revisto": false
+  },
+  "capa-para-sofa-multi-elastica-tamanhos-grandes": {
+    "medidaPrincipal": "largura total do sofá (A), de braço a braço",
+    "tamanhos": [
+      {
+        "tamanho": "5 Lugares (260 - 300 cm)",
+        "largura": {
+          "minCm": 260,
+          "maxCm": 300
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 110
+        },
+        "outras": "Altura do encosto 80-110 cm; largura do braço 15-30 cm; altura do braço 45-65 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "6 Lugares (300 - 390 cm)",
+        "largura": {
+          "minCm": 300,
+          "maxCm": 390
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 110
+        },
+        "outras": "Altura do encosto 80-110 cm; largura do braço 15-30 cm; altura do braço 45-65 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Medidas comuns a todos os tamanhos segundo o diagrama: profundidade 60-110 cm, altura 80-110 cm, braço 15-30 cm de largura e 45-65 cm de altura. Capa de uma só peça, com fitas para amarrar por baixo do sofá e esponjas para ajuste extra. Não é indicada nenhuma regra para escolher entre tamanhos quando a medida está perto do limite.",
+    "revisto": false
+  },
+  "capa-para-sofa-relax-3-lugares-bi-elastica-milan": {
+    "medidaPrincipal": "largura do encosto do sofá (cota de 200-240 cm indicada no esquema)",
+    "tamanhos": [
+      {
+        "tamanho": "único",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 240
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura: 90-105 cm; extensão do apoio de pés reclinável: 60-75 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para sofá relax (reclinável) de 3 lugares, tamanho único. A profundidade não é indicada. O esquema mostra a largura de 200-240 cm, a altura de 90-105 cm e a extensão do apoio de pés reclinável de 60-75 cm. Não são indicadas regras de escolha.",
+    "revisto": false
+  },
+  "capa-reversivel-dupla-face-sem-bracos": {
+    "medidaPrincipal": "Largura do sofá sem braços (encosto/assento), indicada pela seta na imagem",
+    "tamanhos": [
+      {
+        "tamanho": "80x200 cm",
+        "largura": {
+          "minCm": 80,
+          "maxCm": 80
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Capa A-80 cm: dimensões da capa 80 x 200 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "100 x 200 cm",
+        "largura": {
+          "minCm": 100,
+          "maxCm": 100
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Capa A-100 cm: dimensões da capa 100 x 200 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "120x200 cm",
+        "largura": {
+          "minCm": 120,
+          "maxCm": 120
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Capa A-120 cm: dimensões da capa 120 x 200 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "140 x 200 cm",
+        "largura": {
+          "minCm": 140,
+          "maxCm": 140
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Capa A-140 cm: dimensões da capa 140 x 200 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "170x200 cm",
+        "largura": {
+          "minCm": 170,
+          "maxCm": 170
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Capa A-170 cm: dimensões da capa 170 x 200 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "180 x 200 cm",
+        "largura": {
+          "minCm": 180,
+          "maxCm": 180
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Capa A-180 cm: dimensões da capa 180 x 200 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "200x200 cm",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Capa A-200 cm: dimensões da capa 200 x 200 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para sofás sem braços (tipo futon/clic-clac), com tiras elásticas traseiras. A tabela indica apenas um valor de largura por tamanho (sem intervalo); 200 cm é o comprimento da capa (cobre encosto e assento). A imagem mostra também um tamanho A-190 cm (190 x 200 cm) que não existe nas variantes disponíveis.",
+    "revisto": false
+  },
+  "capa-sofa-clic-clac-elastica-teide": {
+    "medidaPrincipal": "largura total do sofá-cama (A), de um extremo ao outro do encosto",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": 50,
+          "maxCm": 80
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura assento+encosto: 110-140 cm; espessura do assento: 15-30 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": 130,
+          "maxCm": 160
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura assento+encosto: 110-140 cm; espessura do assento: 15-30 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": 160,
+          "maxCm": 190
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Altura assento+encosto: 110-140 cm; espessura do assento: 15-30 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para sofá-cama click-clack sem braços. A medida 110-140 cm corresponde ao comprimento desde o topo do encosto até à frente do assento; 15-30 cm é a espessura/altura lateral do assento. Não são indicadas regras adicionais de escolha.",
+    "revisto": false
+  },
+  "capa-sofa-de-canto-bi-elastica-milan": {
+    "medidaPrincipal": "largura total do sofá de canto, de braço a braço ao longo dos dois lados (340-540 cm)",
+    "tamanhos": [
+      {
+        "tamanho": "único",
+        "largura": {
+          "minCm": 340,
+          "maxCm": 540
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 100
+        },
+        "outras": "Altura: 80-100 cm. Cobre um sofá de canto de até 5 metros; peça única com dois lados do mesmo tamanho.",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa de peça única com os dois lados do canto do mesmo tamanho. Inclui espumas para colocar entre as almofadas e os lados para fixar a capa. Para colocar, procurar a etiqueta de ponto de início (START POINT / BACK SIDE).",
+    "revisto": false
+  },
+  "capa-tecido-liso-bi-elastica": {
+    "medidaPrincipal": "largura total do sofá, de braço a braço (A)",
+    "tamanhos": [
+      {
+        "tamanho": "1 Lugar",
+        "largura": {
+          "minCm": 70,
+          "maxCm": 110
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 90
+        },
+        "outras": "Altura do encosto 80-95 cm; altura do braço 45-65 cm (medidas aproximadas)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "2 Lugares",
+        "largura": {
+          "minCm": 130,
+          "maxCm": 180
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 90
+        },
+        "outras": "Altura do encosto 80-95 cm; altura do braço 45-65 cm (medidas aproximadas)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "3 Lugares",
+        "largura": {
+          "minCm": 180,
+          "maxCm": 220
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 90
+        },
+        "outras": "Altura do encosto 80-95 cm; altura do braço 45-65 cm (medidas aproximadas)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "4 Lugares",
+        "largura": {
+          "minCm": 220,
+          "maxCm": 250
+        },
+        "profundidade": {
+          "minCm": 60,
+          "maxCm": 90
+        },
+        "outras": "Altura do encosto 80-95 cm; altura do braço 45-65 cm (medidas aproximadas)",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Se o sofá tiver a medida próxima do máximo da capa, deve escolher o tamanho acima. Medidas aproximadas. Profundidade (60-90 cm) e alturas indicadas no diagrama são comuns a todos os tamanhos.",
+    "revisto": false
+  },
+  "capas-para-almofada-de-sofa-em-veludo-repelentes-de-agua": {
+    "medidaPrincipal": "largura da almofada do assento do sofá (comprimento do lado que varia por tamanho S-M-L-XL)",
+    "tamanhos": [
+      {
+        "tamanho": "S",
+        "largura": {
+          "minCm": 45,
+          "maxCm": 65
+        },
+        "profundidade": {
+          "minCm": 50,
+          "maxCm": 85
+        },
+        "outras": "Altura da almofada 10-20 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "M",
+        "largura": {
+          "minCm": 65,
+          "maxCm": 95
+        },
+        "profundidade": {
+          "minCm": 50,
+          "maxCm": 85
+        },
+        "outras": "Altura da almofada 10-20 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "L",
+        "largura": {
+          "minCm": 95,
+          "maxCm": 130
+        },
+        "profundidade": {
+          "minCm": 50,
+          "maxCm": 85
+        },
+        "outras": "Altura da almofada 10-20 cm",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "XL",
+        "largura": {
+          "minCm": 130,
+          "maxCm": 185
+        },
+        "profundidade": {
+          "minCm": 50,
+          "maxCm": 85
+        },
+        "outras": "Altura da almofada 10-20 cm",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "Capa para almofada individual do sofá (não para o sofá inteiro). A profundidade (50-85 cm) e a altura (10-20 cm) são comuns a todos os tamanhos. As medidas são aproximadas. Tecido bi-elástico que se adapta a diferentes formas de almofada.",
+    "revisto": false
+  },
+  "topper-acolchoado-anti-derrapante-para-cao-e-gato": {
+    "medidaPrincipal": "Não indicada. As variantes referem-se ao comprimento do próprio topper, não a intervalos de medidas do sofá.",
+    "tamanhos": [
+      {
+        "tamanho": "55 cm",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Comprimento do topper: 55 cm (segundo o nome da variante). Largura do topper não indicada.",
+        "fonte": "nao_encontrado"
+      },
+      {
+        "tamanho": "130 cm",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Comprimento do topper: 130 cm (segundo o nome da variante). Largura do topper não indicada.",
+        "fonte": "nao_encontrado"
+      },
+      {
+        "tamanho": "160 cm",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Comprimento do topper: 160 cm (segundo o nome da variante). Largura do topper não indicada.",
+        "fonte": "nao_encontrado"
+      },
+      {
+        "tamanho": "200 cm",
+        "largura": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "profundidade": {
+          "minCm": null,
+          "maxCm": null
+        },
+        "outras": "Comprimento do topper: 200 cm (segundo o nome da variante). Largura do topper não indicada.",
+        "fonte": "nao_encontrado"
+      }
+    ],
+    "notas": "Não há tabela de medidas nas imagens: são apenas fotos do produto e de uma máquina de lavar. O produto é um topper/protetor acolchoado com base anti-derrapante em silicone. Pode ser usado sobre o assento do sofá ou no chão, como cama. Não é uma capa ajustável. O texto não indica nenhum intervalo de medidas do sofá nem regras de escolha.",
+    "revisto": false
+  },
+  "topper-de-sofa-anti-derrapante-em-coralina": {
+    "medidaPrincipal": "Medida (A): comprimento do topper (largura do assento a cobrir); a outra dimensão (profundidade) é fixa, de 65 cm",
+    "tamanhos": [
+      {
+        "tamanho": "55 cm",
+        "largura": {
+          "minCm": 55,
+          "maxCm": 55
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": "Medidas do próprio topper (A = 55 cm x 65 cm)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "110 cm",
+        "largura": {
+          "minCm": 110,
+          "maxCm": 110
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": "Medidas do próprio topper (A = 110 cm x 65 cm)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "160 cm",
+        "largura": {
+          "minCm": 160,
+          "maxCm": 160
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": "Medidas do próprio topper (A = 160 cm x 65 cm)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "180 cm",
+        "largura": {
+          "minCm": 180,
+          "maxCm": 180
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": "Medidas do próprio topper (A = 180 cm x 65 cm)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "200 cm",
+        "largura": {
+          "minCm": 200,
+          "maxCm": 200
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": "Medidas do próprio topper (A = 200 cm x 65 cm)",
+        "fonte": "imagem"
+      },
+      {
+        "tamanho": "220 cm",
+        "largura": {
+          "minCm": 220,
+          "maxCm": 220
+        },
+        "profundidade": {
+          "minCm": 65,
+          "maxCm": 65
+        },
+        "outras": "Medidas do próprio topper (A = 220 cm x 65 cm)",
+        "fonte": "imagem"
+      }
+    ],
+    "notas": "As medidas indicadas são as dimensões do topper (retângulo com A de comprimento e 65 cm de largura fixa), não intervalos de sofá compatíveis. Os valores de A vêm do texto ('Medida (A)') e os 65 cm vêm da imagem. Não há regras de escolha indicadas. Topper com topo em coralina e base anti-derrapante; também pode ser usado na cama, na janela ou como tapete.",
+    "revisto": false
+  }
+}
